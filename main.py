@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+#ayham shaar coding
 """
 برنامج تحميل الفيديوهات والملفات
 Video and File Downloader
